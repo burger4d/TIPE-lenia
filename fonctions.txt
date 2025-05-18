@@ -1,0 +1,7 @@
+1 if 0.12<=x<=0.15 else -1
+math.sin(2*math.pi*x)
+2*math.sin(math.pi*x) - 1
+2*math.exp(-20*(x-1/2)**2) - 1
+2*math.exp(-200*(x-1/2)**2) - 1
+2*math.exp(-400*(x-1/2)**2) - 1
+x - 1/2
