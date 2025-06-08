@@ -1,4 +1,5 @@
 Lenia, un automate cellulaire continu
+
 Sujet de tipe 2024-2025 (transition, transformation, conversion)
 
 Code des automates cellulaires du Jeu de la vie, Primordia, Larger-than-life et Lenia.
