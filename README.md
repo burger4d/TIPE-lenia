@@ -12,12 +12,32 @@ aperçu:
 
 # fichiers:
 
+- fichier principal (à exécuter):
+
+main.py
+
+
+-fichier de l'interface graphique:
+
+interface.py
+
+
 -fichiers  avec motifs enregistrés:
 
-Jeudelavie.json,
+Jeudelavie.json
 
-Primordia.json,
+Primordia.json
 
-Ltl.json,
+Ltl.json
 
 Lenia.json
+
+
+-fichier des fonctions de croissance:
+
+fonctions.txt
+
+
+-fichier des différents noyaux:
+
+kernel.json
