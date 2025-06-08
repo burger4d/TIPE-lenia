@@ -17,12 +17,12 @@ aperçu:
 main.py
 
 
--fichier de l'interface graphique:
+- fichier de l'interface graphique:
 
 interface.py
 
 
--fichiers  avec motifs enregistrés:
+- fichiers  avec motifs enregistrés:
 
 Jeudelavie.json
 
@@ -33,11 +33,11 @@ Ltl.json
 Lenia.json
 
 
--fichier des fonctions de croissance:
+- fichier des fonctions de croissance:
 
 fonctions.txt
 
 
--fichier des différents noyaux:
+- fichier des différents noyaux:
 
 kernel.json
